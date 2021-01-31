@@ -6,16 +6,16 @@ You will need a JDK installed on your computer to be able to compile and run thi
 ## Instillation and Running the Program
 This assignment is all contained within one file (TodoList.java), so instillation will be straight forward. You will have a few different options to choose from:
 
-### 1. Copy and paste the code into your IDE
+### Option 1: Copy and paste the code into your IDE
 Make sure you have a Java project open and an associated JDK. You should then create a Java class titled "TodoList.java" and then paste the code from the corresponding file in this repository. If you do have any other files in this project, make sure that this is the only class with a main method. You may now run the program through your IDE.
 
-### 2. Save the file to a Java project
+### Option 2: Save the file to a Java project
 In order to do this without git, you will have to the home page of the repo and click the button with a down arrow and that says "Code". This should be a green button. Then click download as zip. You may then extract and drag the file "TodoList.java" file into the src folder within your Java project or copy it there through command line by using the command:
 ```
 cp <File Location> <Destination Directory>
 ```
 
-### 3. Run the program through command line
+### Option 3: Run the program through command line
 First you must download the Java file from this repository. You will have to the home page of the repo and click the button with a down arrow and that says "Code". This should be a green button. Then click download as zip. Extract the "TodoList.java" to a directory that is convenient for you. Open up an instance of a command line program and navigate to the directory that you placed the Java file in by doing:
 ```
 cd <Desination Directory>
